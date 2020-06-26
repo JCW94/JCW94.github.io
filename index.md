@@ -7,3 +7,5 @@ Lorem ipsum dolor sit amet
 	* Item 2b
 * Item 3
 * Item 4
+As often said:
+>Lorem ipsum dolor sit amet
