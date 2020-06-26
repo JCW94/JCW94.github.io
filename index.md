@@ -9,3 +9,4 @@ Lorem ipsum dolor sit amet
 * Item 4
 As often said:
 >Lorem ipsum dolor sit amet
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lorem_Ipsum_Helvetica.png/800px-Lorem_Ipsum_Helvetica.png"/>
